@@ -124,12 +124,15 @@
 }
 
 #pragma Setter
-
 - (void)setLanguage:(NSString *)language {
     _language = language;
+    if (!language) {
+        return;
+    }
+
     NSString *cancelButtonText = [NSBundle pg_localizedStringForKey:@"cancelButtonText" language:self.language];
     [self.cancelButton setTitle:cancelButtonText forState:UIControlStateNormal];
-    
+
     NSString *confirmButtonText = [NSBundle pg_localizedStringForKey:@"confirmButtonText" language:self.language];
     [self.confirmButton setTitle:confirmButtonText forState:UIControlStateNormal];
 }
