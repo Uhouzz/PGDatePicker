@@ -20,6 +20,7 @@
     if (self = [super init]) {
         self.modalPresentationStyle = UIModalPresentationCustom;
         self.customDismissAnimation = nil;
+        self.shadeAlpha = 0.4;
         [self setupDismissViewTapHandler];
         [self headerViewButtonHandler];
     }
@@ -133,7 +134,7 @@
     self.headerView.backgroundColor = self.headerViewBackgroundColor;
     [UIView animateWithDuration:0.2 animations:^{
         if (self.isShadeBackground) {
-            self.dismissView.backgroundColor = [[UIColor blackColor] colorWithAlphaComponent:0.6];
+            self.dismissView.backgroundColor = [[UIColor blackColor] colorWithAlphaComponent:self.shadeAlpha];
         }
         self.contentView.frame = contentViewFrame;
         self.headerView.frame = headerViewFrame;
@@ -164,7 +165,7 @@
     [UIView animateWithDuration:0.05
                      animations:^{
                          if (self.isShadeBackground) {
-                             self.dismissView.backgroundColor = [[UIColor blackColor] colorWithAlphaComponent:0.6];
+                             self.dismissView.backgroundColor = [[UIColor blackColor] colorWithAlphaComponent:self.shadeAlpha];
                          }
                          self.contentView.transform = CGAffineTransformMakeScale(1.0, 1.0);
                      }];
@@ -194,7 +195,7 @@
     [UIView animateWithDuration:0.05
                      animations:^{
                          if (self.isShadeBackground) {
-                             self.dismissView.backgroundColor = [[UIColor blackColor] colorWithAlphaComponent:0.6];
+                             self.dismissView.backgroundColor = [[UIColor blackColor] colorWithAlphaComponent:self.shadeAlpha];
                          }
                          self.contentView.transform = CGAffineTransformMakeScale(1.0, 1.0);
                      }];
