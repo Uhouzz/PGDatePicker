@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 德语 (German)
+ */
+
+"yearString" = " J";
+"monthString" = " M";
+"dayString" = " T";
+"hourString" = " Std";
+"minuteString" = " Min";
+"secondString" = " Sek";
+"mondayString" = " Mo";
+"tuesdayString" = " Di";
+"wednesdayString" = " Mi";
+"thursdayString" = " Do";
+"fridayString" = " Fr";
+"saturdayString" = " Sa";
+"sundayString" = " So";
+"cancelButtonText" = "Abbrechen";
+"confirmButtonText" = "OK";

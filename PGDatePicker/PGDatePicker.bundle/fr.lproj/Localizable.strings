@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 法语 (French)
+ */
+
+"yearString" = " An";
+"monthString" = " Mois";
+"dayString" = " Jour";
+"hourString" = " H";
+"minuteString" = " Min";
+"secondString" = " Sec";
+"mondayString" = " Lun";
+"tuesdayString" = " Mar";
+"wednesdayString" = " Mer";
+"thursdayString" = " Jeu";
+"fridayString" = " Ven";
+"saturdayString" = " Sam";
+"sundayString" = " Dim";
+"cancelButtonText" = "Annuler";
+"confirmButtonText" = "Confirmer";

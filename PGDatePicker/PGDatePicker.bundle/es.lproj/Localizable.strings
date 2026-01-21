@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 西班牙语 (Spanish)
+ */
+
+"yearString" = " Año";
+"monthString" = " Mes";
+"dayString" = " Día";
+"hourString" = " H";
+"minuteString" = " Min";
+"secondString" = " Seg";
+"mondayString" = " Lun";
+"tuesdayString" = " Mar";
+"wednesdayString" = " Mié";
+"thursdayString" = " Jue";
+"fridayString" = " Vie";
+"saturdayString" = " Sáb";
+"sundayString" = " Dom";
+"cancelButtonText" = "Cancelar";
+"confirmButtonText" = "Aceptar";

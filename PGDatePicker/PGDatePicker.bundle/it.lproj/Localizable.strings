@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 意大利语 (Italian)
+ */
+
+"yearString" = " Anno";
+"monthString" = " Mese";
+"dayString" = " Giorno";
+"hourString" = " H";
+"minuteString" = " Min";
+"secondString" = " Sec";
+"mondayString" = " Lun";
+"tuesdayString" = " Mar";
+"wednesdayString" = " Mer";
+"thursdayString" = " Gio";
+"fridayString" = " Ven";
+"saturdayString" = " Sab";
+"sundayString" = " Dom";
+"cancelButtonText" = "Annulla";
+"confirmButtonText" = "Conferma";

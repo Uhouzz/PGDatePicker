@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 泰语 (Thai)
+ */
+
+"yearString" = " ปี";
+"monthString" = " ด.";
+"dayString" = " ว.";
+"hourString" = " ชม.";
+"minuteString" = " น.";
+"secondString" = " วิ.";
+"mondayString" = " จ.";
+"tuesdayString" = " อ.";
+"wednesdayString" = " พ.";
+"thursdayString" = " พฤ.";
+"fridayString" = " ศ.";
+"saturdayString" = " ส.";
+"sundayString" = " อา.";
+"cancelButtonText" = "ยกเลิก";
+"confirmButtonText" = "ตกลง";

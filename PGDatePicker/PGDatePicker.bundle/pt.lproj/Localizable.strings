@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 葡萄牙语 (Portuguese)
+ */
+
+"yearString" = " Ano";
+"monthString" = " Mês";
+"dayString" = " Dia";
+"hourString" = " H";
+"minuteString" = " Min";
+"secondString" = " Seg";
+"mondayString" = " Seg";
+"tuesdayString" = " Ter";
+"wednesdayString" = " Qua";
+"thursdayString" = " Qui";
+"fridayString" = " Sex";
+"saturdayString" = " Sáb";
+"sundayString" = " Dom";
+"cancelButtonText" = "Cancelar";
+"confirmButtonText" = "Confirmar";

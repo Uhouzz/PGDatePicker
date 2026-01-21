@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 韩语 (Korean)
+ */
+
+"yearString" = "년";
+"monthString" = "월";
+"dayString" = "일";
+"hourString" = "시";
+"minuteString" = "분";
+"secondString" = "초";
+"mondayString" = " 월";
+"tuesdayString" = " 화";
+"wednesdayString" = " 수";
+"thursdayString" = " 목";
+"fridayString" = " 금";
+"saturdayString" = " 토";
+"sundayString" = " 일";
+"cancelButtonText" = "취소";
+"confirmButtonText" = "확인";

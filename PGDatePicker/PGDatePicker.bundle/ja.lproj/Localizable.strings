@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 日语 (Japanese)
+ */
+
+"yearString" = "年";
+"monthString" = "月";
+"dayString" = "日";
+"hourString" = "時";
+"minuteString" = "分";
+"secondString" = "秒";
+"mondayString" = "月";
+"tuesdayString" = "火";
+"wednesdayString" = "水";
+"thursdayString" = "木";
+"fridayString" = "金";
+"saturdayString" = "土";
+"sundayString" = "日";
+"cancelButtonText" = "キャンセル";
+"confirmButtonText" = "確定";

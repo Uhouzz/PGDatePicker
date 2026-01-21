@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 越南语 (Vietnamese)
+ */
+
+"yearString" = " Năm";
+"monthString" = " Th";
+"dayString" = " Ng";
+"hourString" = " Giờ";
+"minuteString" = " Ph";
+"secondString" = " Giây";
+"mondayString" = " T2";
+"tuesdayString" = " T3";
+"wednesdayString" = " T4";
+"thursdayString" = " T5";
+"fridayString" = " T6";
+"saturdayString" = " T7";
+"sundayString" = " CN";
+"cancelButtonText" = "Hủy";
+"confirmButtonText" = "Xác nhận";

@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 印地语 (Hindi)
+ */
+
+"yearString" = " वर्ष";
+"monthString" = " माह";
+"dayString" = " दिन";
+"hourString" = " घं";
+"minuteString" = " मि";
+"secondString" = " से";
+"mondayString" = " सोम";
+"tuesdayString" = " मंगल";
+"wednesdayString" = " बुध";
+"thursdayString" = " गुरु";
+"fridayString" = " शुक्र";
+"saturdayString" = " शनि";
+"sundayString" = " रवि";
+"cancelButtonText" = "रद्द करें";
+"confirmButtonText" = "पुष्टि करें";

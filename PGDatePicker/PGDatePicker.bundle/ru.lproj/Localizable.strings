@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 俄语 (Russian)
+ */
+
+"yearString" = " г.";
+"monthString" = " м.";
+"dayString" = " д.";
+"hourString" = " ч.";
+"minuteString" = " мин.";
+"secondString" = " сек.";
+"mondayString" = " Пн";
+"tuesdayString" = " Вт";
+"wednesdayString" = " Ср";
+"thursdayString" = " Чт";
+"fridayString" = " Пт";
+"saturdayString" = " Сб";
+"sundayString" = " Вс";
+"cancelButtonText" = "Отмена";
+"confirmButtonText" = "ОК";

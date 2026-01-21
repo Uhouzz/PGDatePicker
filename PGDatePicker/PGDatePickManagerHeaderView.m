@@ -58,7 +58,7 @@
                                      self.bounds.size.height - lineViewHeight,
                                      self.bounds.size.width,
                                      lineViewHeight);
-    CGFloat buttonWidth = 80;
+    CGFloat buttonWidth = 90;
     CGFloat buttonHeight = 30;
     CGFloat space = 15;
     self.cancelButton.contentHorizontalAlignment = UIControlContentHorizontalAlignmentLeft;

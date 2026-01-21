@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 马来语 (Malay)
+ */
+
+"yearString" = " Thn";
+"monthString" = " Bln";
+"dayString" = " Hari";
+"hourString" = " Jam";
+"minuteString" = " Min";
+"secondString" = " Saat";
+"mondayString" = " Isn";
+"tuesdayString" = " Sel";
+"wednesdayString" = " Rab";
+"thursdayString" = " Kha";
+"fridayString" = " Jum";
+"saturdayString" = " Sab";
+"sundayString" = " Ahd";
+"cancelButtonText" = "Batal";
+"confirmButtonText" = "Pasti";

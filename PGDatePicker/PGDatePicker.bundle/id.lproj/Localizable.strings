@@ -1,0 +1,20 @@
+/*
+ Localizable.strings
+ 印尼语 (Indonesian)
+ */
+
+"yearString" = " Thn";
+"monthString" = " Bln";
+"dayString" = " Hari";
+"hourString" = " Jam";
+"minuteString" = " Mnt";
+"secondString" = " Dtk";
+"mondayString" = " Sen";
+"tuesdayString" = " Sel";
+"wednesdayString" = " Rab";
+"thursdayString" = " Kam";
+"fridayString" = " Jum";
+"saturdayString" = " Sab";
+"sundayString" = " Min";
+"cancelButtonText" = "Batal";
+"confirmButtonText" = "OK";
